@@ -27,7 +27,7 @@ function App() {
       <section id="skills">
         <h1>Skills & Technologies</h1>
         <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '1rem', maxWidth: '800px' }}>
-          {['Java', 'React', 'JavaScript', 'TypeScript', 'MySQL', 'Python', 'C++', 'Node.js', 'HTML5', 'CSS3', 'Python', 'MongoDB', 'Git', 'Docker'].map(skill => (
+          {['Java', 'React', 'JavaScript', 'TypeScript', 'MySQL', 'C++', 'Node.js', 'HTML5', 'CSS3', 'Python', 'MongoDB', 'Git', 'Docker'].map(skill => (
             <span key={skill} style={{
               background: 'var(--card-bg)',
               color: 'var(--text-color)',
