@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://www.yogeshkarnan.com",
+  "homepage": "https://www.yogeshkarnan.com",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -15,7 +15,8 @@
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-icons": "^5.6.0"
+    "react-icons": "^5.6.0",
+    "react-router-dom": "^7.13.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
